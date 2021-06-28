@@ -1,0 +1,4 @@
+READ ME
+
+This Game was created following a tutorial from Youtube by Clever Programmer in 25/06/2021.
+The design is based on the game from dribble by Yi Nie.
