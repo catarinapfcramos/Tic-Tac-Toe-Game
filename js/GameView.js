@@ -1,5 +1,6 @@
 export default class GameView {
 
+    
     updateBoard(game) {
         this.updateTurn(game);
         const winningCombination = game.findWinningCombinations();
